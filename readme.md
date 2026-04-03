@@ -1,4 +1,4 @@
-Just some collab notebooks for playing aound with ComfyUI.
+Just some Google Colab notebooks for playing aound with ComfyUI.
 If you don't have a decent GPU then you might find these useful.
 If you have a google/gmail account then you have access to Google Colab.
 https://colab.research.google.com/
@@ -9,7 +9,7 @@ Downloading models takes a few minutes but then things go fairly smoothly.
 Stick with ZIT and the Stable Diffusion models.
 Qwen and Flux are very slow to run on Colab and often run out of memory.
 
-## comfy-tti-unet:
+## comfy-tti-unet
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-unet.ipynb)
 
 * Z-Image-Turbo FP8
@@ -18,7 +18,7 @@ Qwen and Flux are very slow to run on Colab and often run out of memory.
 * Flux.2 9B Klein FP8
 * Qwen Image GGUF (badly)
 
-## comfy-tti-checkpoint:
+## comfy-tti-checkpoint
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-checkpoint.ipynb)
 
 * Illustrious
