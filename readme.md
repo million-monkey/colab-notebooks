@@ -9,8 +9,8 @@ Downloading models takes a few minutes but then things go fairly smoothly.
 Stick with ZIT and the Stable Diffusion models.
 Qwen and Flux are very slow to run on Colab and often run out of memory.
 
-## comfy-tti-unet
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-unet.ipynb)
+## comfy-tti-unet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-unet.ipynb)
+
 A hard-coded text to image workflow with preconfigured support for unets:
 * Z-Image-Turbo FP8
 * Z-Image-Base FP8
@@ -18,8 +18,8 @@ A hard-coded text to image workflow with preconfigured support for unets:
 * Flux.2 9B Klein FP8
 * Qwen Image GGUF (badly)
 
-## comfy-tti-checkpoint
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-checkpoint.ipynb)
+## comfy-tti-checkpoint [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-checkpoint.ipynb)
+
 A hard-coded text to image workflow with preconfigured support for checkpoints:
 * Illustrious
 * Pony
