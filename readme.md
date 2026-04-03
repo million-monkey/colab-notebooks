@@ -1,6 +1,6 @@
-Just some Google Colab notebooks for playing aound with ComfyUI.
+Just some Google Colab notebooks for playing around with ComfyUI.
 If you don't have a decent GPU then you might find these useful.
-If you have a google/gmail account then you have access to Google Colab.
+If you have a google/gmail account then you already have access to Google Colab.
 https://colab.research.google.com/
 
 You should be able to open these notebooks and play around.
@@ -11,7 +11,7 @@ Qwen and Flux are very slow to run on Colab and often run out of memory.
 
 ## comfy-tti-unet
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-unet.ipynb)
-
+A hard-coded text to image workflow with preconfigured support for unets:
 * Z-Image-Turbo FP8
 * Z-Image-Base FP8
 * Anima Preview 2 FP8
@@ -20,7 +20,7 @@ Qwen and Flux are very slow to run on Colab and often run out of memory.
 
 ## comfy-tti-checkpoint
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/million-monkey/colab-notebooks/blob/main/comfy-tti-checkpoint.ipynb)
-
+A hard-coded text to image workflow with preconfigured support for checkpoints:
 * Illustrious
 * Pony
 * SDXL
